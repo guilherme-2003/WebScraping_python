@@ -1,182 +1,962 @@
 {
     "Notícia 1": {
-        "Tittle": "Parecer médico descarta que morte de Paulinha Abelha tenha relação com o uso de medicamentos",
-        "Notice": "https://g1.globo.com/se/sergipe/noticia/2022/03/31/parecer-medico-descarta-que-morte-de-paulinha-abelha-tenha-relacao-com-o-uso-de-medicamentos.ghtml",
-        "Image": "https://s2.glbimg.com/2QS2JGhq-RzpH6Yx6M8lNvpBhTo=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/24/10/10331024",
-        "Date": "Há 1 hora"
+        "Tittle": "'Ela era uma pessoa saudável’, diz nutróloga de Paulinha Abelha em primeiro pronunciamento após a morte da cantora",
+        "Notice": "https://g1.globo.com/se/sergipe/noticia/2022/04/01/ela-era-uma-pessoa-saudavel-diz-nutrologa-de-paulinha-abelha-em-primeiro-pronunciamento-apos-a-morte-da-cantora.ghtml",
+        "Image": "https://s2.glbimg.com/PXpezT843MirjAYuZNjUdKR69xs=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/30/50/10445030",
+        "Date": "Há 2 horas"
     },
     "Notícia 2": {
-        "Tittle": "Uso excessivo de antibióticos na meia-idade pode levar ao declínio cognitivo das mulheres",
-        "Notice": "https://g1.globo.com/bemestar/blog/longevidade-modo-de-usar/post/2022/03/31/uso-excessivo-de-antibioticos-na-meia-idade-pode-levar-ao-declinio-cognitivo-das-mulheres.ghtml",
-        "Image": "https://s2.glbimg.com/EgVJ5NJn5NreRZ34B3i9XVVGZ5g=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2022/D/c/X9bzWFSw6ssHfEnpD7FQ/antibioticodecliniocognitivo.jpg",
-        "Date": "Há 9 horas"
+        "Tittle": "Baricitinibe: Ministério da Saúde aprova primeiro medicamento para tratamento da Covid no SUS",
+        "Notice": "https://g1.globo.com/saude/noticia/2022/04/01/baricitinibe-ministerio-da-saude-aprova-primeiro-medicamento-para-tratamento-da-covid-19-no-sus.ghtml",
+        "Image": "https://s2.glbimg.com/iM5Q4_WlMtwFW1e2nlynTKU3HYg=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/48/91/10209148",
+        "Date": "Há 5 horas"
     },
     "Notícia 3": {
-        "Tittle": "Baricitinibe obtém recomendação da Conitec para ser incorporado ao SUS  contra a Covid",
-        "Notice": "https://g1.globo.com/saude/noticia/2022/03/30/baricitinibe-obtem-recomendacao-da-conitec-para-ser-incorporado-ao-sus-contra-a-covid.ghtml",
-        "Image": "https://s2.glbimg.com/iM5Q4_WlMtwFW1e2nlynTKU3HYg=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/48/91/10209148",
-        "Date": "Há 17 horas"
+        "Tittle": "Anvisa aprova segundo produto para terapia gênica CAR-T Cell contra o câncer no Brasil",
+        "Notice": "https://g1.globo.com/saude/noticia/2022/04/01/anvisa-aprova-segunda-terapia-genica-para-tratamento-de-cancer.ghtml",
+        "Image": "https://s2.glbimg.com/xMopfrJftwjAHWxM37cvwllNyiw=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2022/R/1/nCN4NsRbSsEeOK9VmDZQ/terapia-genica-cart-t-cell.jpg",
+        "Date": "Há 5 horas"
     },
     "Notícia 4": {
-        "Tittle": "Brasil tem 276 mortes por Covid-19 em 24 horas e chega ao total de 659.570",
-        "Notice": "https://g1.globo.com/saude/coronavirus/noticia/2022/03/30/brasil-tem-276-mortes-por-covid-19-em-24-horas-e-chega-ao-total-de-659570.ghtml",
-        "Image": "https://s2.glbimg.com/-nIoD3kfOUotlPqDzrWU6fksKOI=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/59/95/10439559",
-        "Date": "Há 19 horas"
+        "Tittle": "Autismo: o que é camuflagem social, que dificulta diagnóstico em meninas",
+        "Notice": "https://g1.globo.com/saude/noticia/2022/04/01/autismo-o-que-e-camuflagem-social-que-dificulta-diagnostico-em-meninas.ghtml",
+        "Image": "https://s2.glbimg.com/-RXYxi6_EjrMwOvZ0uQFTm3F7l8=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2022/j/O/fv5aZLTqqJ8phAuMtHPw/1.jpg",
+        "Date": "Há 6 horas"
     },
     "Notícia 5": {
-        "Tittle": "Vacinação contra a Covid: 160,5 milhões de brasileiros estão totalmente imunizados",
-        "Notice": "https://g1.globo.com/saude/coronavirus/vacinas/noticia/2022/03/30/vacinacao-contra-a-covid-1605-milhoes-de-brasileiros-estao-totalmente-imunizados.ghtml",
-        "Image": "https://s2.glbimg.com/aip-SA-BGfSGozWpAkS8tL6psPQ=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2022/j/G/1Lm2dyTLGREKDOXVdRhw/total-de-criancas-entre-5-e-11-anos-vacinadas.png",
-        "Date": "Há 19 horas"
+        "Tittle": "Brasil tem 290 mortes por Covid-19 em 24 horas; média móvel segue em queda",
+        "Notice": "https://g1.globo.com/saude/coronavirus/noticia/2022/03/31/brasil-tem-290-mortes-por-covid-19-em-24-horas-media-movel-segue-em-queda.ghtml",
+        "Image": "https://s2.glbimg.com/KwlrV4nzq-vO2EguiI_51DCsEdQ=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/11/31/10443111",
+        "Date": "Há 20 horas"
     },
     "Notícia 6": {
-        "Tittle": "Estudo feito no Brasil e apontado com um dos maiores diz que ivermectina não reduz internações por Covid-19",
-        "Notice": "https://g1.globo.com/saude/coronavirus/noticia/2022/03/30/estudo-feito-no-brasil-e-apontado-com-um-dos-maiores-diz-que-ivermectina-nao-reduz-internacoes-por-covid-19.ghtml",
-        "Image": "https://s2.glbimg.com/k02TcWftohP3waMkF0tXKEHZBC8=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2021/6/4/UdrFBrTv2X46pCkR5aIg/stromectol-2.jpg",
+        "Tittle": "Vacinação contra a Covid: quase 75% da população está totalmente imunizada",
+        "Notice": "https://g1.globo.com/saude/coronavirus/vacinas/noticia/2022/03/31/vacinacao-contra-a-covid-quase-75percent-da-populacao-esta-totalmente-imunizada.ghtml",
+        "Image": "https://s2.glbimg.com/MhKrnqzHbdpVRKcjNgqd_TqG2zs=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2022/1/D/6m9zSkRBuAXIckcSe20Q/total-de-criancas-entre-5-e-11-anos-vacinadas.png",
         "Date": "Há 20 horas"
     },
     "Notícia 7": {
+        "Tittle": "Parecer médico descarta que morte de Paulinha Abelha tenha relação com o uso de medicamentos",
+        "Notice": "https://g1.globo.com/se/sergipe/noticia/2022/03/31/parecer-medico-descarta-que-morte-de-paulinha-abelha-tenha-relacao-com-o-uso-de-medicamentos.ghtml",
+        "Image": "https://s2.glbimg.com/2QS2JGhq-RzpH6Yx6M8lNvpBhTo=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/24/10/10331024",
+        "Date": "Ontem"
+    },
+    "Notícia 8": {
+        "Tittle": "Uso excessivo de antibióticos na meia-idade pode levar ao declínio cognitivo das mulheres",
+        "Notice": "https://g1.globo.com/bemestar/blog/longevidade-modo-de-usar/post/2022/03/31/uso-excessivo-de-antibioticos-na-meia-idade-pode-levar-ao-declinio-cognitivo-das-mulheres.ghtml",
+        "Image": "https://s2.glbimg.com/EgVJ5NJn5NreRZ34B3i9XVVGZ5g=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2022/D/c/X9bzWFSw6ssHfEnpD7FQ/antibioticodecliniocognitivo.jpg",
+        "Date": "Ontem"
+    },
+    "Notícia 9": {
+        "Tittle": "Baricitinibe obtém recomendação da Conitec para ser incorporado ao SUS  contra a Covid",
+        "Notice": "https://g1.globo.com/saude/noticia/2022/03/30/baricitinibe-obtem-recomendacao-da-conitec-para-ser-incorporado-ao-sus-contra-a-covid.ghtml",
+        "Image": "https://s2.glbimg.com/iM5Q4_WlMtwFW1e2nlynTKU3HYg=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/48/91/10209148",
+        "Date": "Há 2 dias"
+    },
+    "Notícia 10": {
+        "Tittle": "Brasil tem 276 mortes por Covid-19 em 24 horas e chega ao total de 659.570",
+        "Notice": "https://g1.globo.com/saude/coronavirus/noticia/2022/03/30/brasil-tem-276-mortes-por-covid-19-em-24-horas-e-chega-ao-total-de-659570.ghtml",
+        "Image": "https://s2.glbimg.com/-nIoD3kfOUotlPqDzrWU6fksKOI=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/59/95/10439559",
+        "Date": "Há 2 dias"
+    },
+    "Notícia 11": {
+        "Tittle": "Vacinação contra a Covid: 160,5 milhões de brasileiros estão totalmente imunizados",
+        "Notice": "https://g1.globo.com/saude/coronavirus/vacinas/noticia/2022/03/30/vacinacao-contra-a-covid-1605-milhoes-de-brasileiros-estao-totalmente-imunizados.ghtml",
+        "Image": "https://s2.glbimg.com/aip-SA-BGfSGozWpAkS8tL6psPQ=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2022/j/G/1Lm2dyTLGREKDOXVdRhw/total-de-criancas-entre-5-e-11-anos-vacinadas.png",
+        "Date": "Há 2 dias"
+    },
+    "Notícia 12": {
+        "Tittle": "Estudo feito no Brasil e apontado com um dos maiores diz que ivermectina não reduz internações por Covid-19",
+        "Notice": "https://g1.globo.com/saude/coronavirus/noticia/2022/03/30/estudo-feito-no-brasil-e-apontado-com-um-dos-maiores-diz-que-ivermectina-nao-reduz-internacoes-por-covid-19.ghtml",
+        "Image": "https://s2.glbimg.com/k02TcWftohP3waMkF0tXKEHZBC8=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2021/6/4/UdrFBrTv2X46pCkR5aIg/stromectol-2.jpg",
+        "Date": "Há 2 dias"
+    },
+    "Notícia 13": {
         "Tittle": "Um ano após crise em Manaus, TCU cobra da Saúde plano para monitorar oferta de oxigênio",
         "Notice": "https://g1.globo.com/politica/noticia/2022/03/30/um-ano-apos-crise-em-manaus-tcu-cobra-da-saude-plano-para-monitorar-oferta-de-oxigenio.ghtml",
         "Image": "https://s2.glbimg.com/Ztj-G9qrIRFKtjixhj6aUsL1DsY=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/16/06/10210616",
-        "Date": "Há 22 horas"
+        "Date": "Há 2 dias"
     },
-    "Notícia 8": {
+    "Notícia 14": {
         "Tittle": "Paxlovid: Anvisa aprova uso emergencial de antiviral da Pfizer contra a Covid",
         "Notice": "https://g1.globo.com/saude/noticia/2022/03/30/anvisa-aprova-uso-emergencial-do-paxlovid-antiviral-da-pfizer-contra-a-covid.ghtml",
         "Image": "https://s2.glbimg.com/tspYrMw33C_N38qiHrUl519r4V8=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2022/5/y/agpaqNQnetWA4reYbVLg/000-9wd3y3.jpg",
-        "Date": "Há 23 horas"
+        "Date": "Há 2 dias"
     },
-    "Notícia 9": {
+    "Notícia 15": {
         "Tittle": "Entenda o que é afasia, condição que acomete ator Bruce Willis",
         "Notice": "https://g1.globo.com/saude/noticia/2022/03/30/entenda-o-que-e-afasia-condicao-que-acomete-ator-bruce-willis.ghtml",
         "Image": "https://s2.glbimg.com/R4lF_vNtRUiLhjKQ-5fU9ahBL6U=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2022/S/N/SnmavhT7WBFaZoiQK2OQ/bruce-willis.jpg",
-        "Date": "Há 24 horas"
+        "Date": "Há 2 dias"
     },
-    "Notícia 10": {
+    "Notícia 16": {
         "Tittle": "O tabu dos relacionamentos entre pessoas com grandes diferenças de idade",
         "Notice": "https://g1.globo.com/saude/sexualidade/noticia/2022/03/30/o-tabu-dos-relacionamentos-entre-pessoas-com-grandes-diferencas-de-idade.ghtml",
         "Image": "https://s2.glbimg.com/KB-EY8RfqQfjGcrFtvWOY1m67N0=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/84/14/9501484",
-        "Date": "Há 24 horas"
+        "Date": "Há 2 dias"
     },
-    "Notícia 11": {
-        "Tittle": "Ufes vai exigir comprovante de vacinação para estudantes no retorno das aulas presenciais",
-        "Notice": "https://g1.globo.com/es/espirito-santo/noticia/2022/03/31/ufes-vai-exigir-comprovante-de-vacinacao-para-estudantes-no-retorno-das-aulas-presenciais.ghtml",
-        "Image": "https://s2.glbimg.com/AZY812-f1mxEhGKcPtExtyXD-vk=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/46/12/10401246",
+    "Notícia 17": {
+        "Tittle": "Joe Biden recebe 4ª dose de vacina contra a Covid-19 nos EUA",
+        "Notice": "https://g1.globo.com/mundo/noticia/2022/03/30/joe-biden-recebe-4a-dose-de-vacina-contra-a-covid-19-nos-eua.ghtml",
+        "Image": "https://s2.glbimg.com/Oq8LuXYMqFC2BEaQORM6_Lwzaz4=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2022/n/f/5z5cJYRAmdxRTZZ3HoIg/2022-03-30t175224z-665235233-rc24dt9w82m4-rtrmadp-3-health-coronavirus-usa.jpg",
+        "Date": "Há 2 dias"
+    },
+    "Notícia 18": {
+        "Tittle": "Anvisa amplia prazo de validade de vacina da AstraZeneca produzida pela Fiocruz",
+        "Notice": "https://g1.globo.com/saude/noticia/2022/03/30/anvisa-amplia-prazo-de-validade-de-vacina-da-astrazeneca-produzida-pela-fiocruz.ghtml",
+        "Image": "https://s2.glbimg.com/k4EFV5mYQlds-ILczBT405W9p5w=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/04/36/9253604",
+        "Date": "Há 2 dias"
+    },
+    "Notícia 19": {
+        "Tittle": "Ministério diz que não pode decretar 'fim da pandemia' e que analisa fatores para decidir 'fim de emergência' relacionada à Covid-19",
+        "Notice": "https://g1.globo.com/saude/coronavirus/noticia/2022/03/30/ministerio-diz-que-nao-pode-decretar-fim-da-pandemia-e-que-analisa-fatores-para-decidir-fim-de-emergencia-relacionada-a-covid-19.ghtml",
+        "Image": "https://s2.glbimg.com/w9qs2YrptuMKHfEV9G59UyLcacA=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/09/83/10438309",
+        "Date": "Há 2 dias"
+    },
+    "Notícia 20": {
+        "Tittle": "Covid: o que é a 'ômicron silenciosa', a subvariante BA.2 que já é dominante no mundo",
+        "Notice": "https://g1.globo.com/saude/coronavirus/noticia/2022/03/30/covid-o-que-e-a-omicron-silenciosa-a-subvariante-ba-2-que-ja-e-dominante-no-mundo.ghtml",
+        "Image": "https://s2.glbimg.com/Hn6ZAXNH9Zx67MYZNm6iLBj0zxs=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/44/43/10084344",
+        "Date": "Há 2 dias"
+    },
+    "Notícia 21": {
+        "Tittle": "EUA autorizam 4ª dose de vacina contra Covid-19 para pessoas de 50 anos ou mais",
+        "Notice": "https://g1.globo.com/saude/vacina/noticia/2022/03/29/eua-autorizam-4a-dose-de-vacina-contra-covid-19-para-pessoas-de-50-anos-ou-mais.ghtml",
+        "Image": "https://s2.glbimg.com/qYTJub_Sp8JBWK0fwh5Uj4jAurg=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2021/R/W/9bdkf5S5OqXuax9XFifQ/000-9kz2jl.jpg",
+        "Date": "Há 3 dias"
+    },
+    "Notícia 22": {
+        "Tittle": "Brasil tem 282 mortes por Covid-19 em 24 horas e chega ao total de 659.294",
+        "Notice": "https://g1.globo.com/saude/coronavirus/noticia/2022/03/29/brasil-tem-282-mortes-por-covid-19-em-24-horas-e-chega-ao-total-de-659294.ghtml",
+        "Image": "https://s2.glbimg.com/-stbvVm9AF7BpD0cncHc746KNhg=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2022/h/j/fAE2HtSgeC39dA0nBLtQ/14mm-mortes-arte-4-.jpg",
+        "Date": "Há 3 dias"
+    },
+    "Notícia 23": {
+        "Tittle": "Vacinação contra a Covid: 74,63% da população brasileira está totalmente imunizada",
+        "Notice": "https://g1.globo.com/saude/coronavirus/vacinas/noticia/2022/03/29/vacinacao-contra-a-covid-7463percent-da-populacao-brasileira-esta-totalmente-imunizada.ghtml",
+        "Image": "https://s2.glbimg.com/p2bdB-hDhDwTFAplr9s9gL6yHpE=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2022/y/O/1nolywTiSYiJRBHomiAQ/total-de-criancas-entre-5-e-11-anos-vacinadas.png",
+        "Date": "Há 3 dias"
+    },
+    "Notícia 24": {
+        "Tittle": "Vacina da dengue do Butantan tem resposta imune superior a 90%, segundo estudo clínico de fase 1",
+        "Notice": "https://g1.globo.com/saude/noticia/2022/03/29/vacina-da-dengue-do-butantan-tem-resposta-imune-superior-a-90percent-segundo-estudo-clinico-de-fase-2.ghtml",
+        "Image": "https://s2.glbimg.com/Eg1qxKcjrFBBmlHz135FNiRM8I0=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2022/b/a/T5hpLiSBCQzxIf7hgKHw/img-1076-1-.jpg",
+        "Date": "Há 3 dias"
+    },
+    "Notícia 25": {
+        "Tittle": "Reino Unido monitora 3 recombinações do SARS-CoV-2 e avalia se 'mistura' de BA.1 e BA.2 é mais transmissível",
+        "Notice": "https://g1.globo.com/saude/coronavirus/noticia/2022/03/29/reino-unido-monitora-3-recombinacoes-do-sars-cov-2-e-avalia-se-mistura-de-ba1-e-ba2-e-mais-transmissivel.ghtml",
+        "Image": "https://s2.glbimg.com/mn1dAHhPU2UlVRtQgWFeV6PRHuI=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2021/V/Q/tzTPWHQrqwhngOUIYyMQ/captura-de-tela-2021-12-09-as-08.59.05.png",
+        "Date": "Há 3 dias"
+    },
+    "Notícia 26": {
+        "Tittle": "Dismorfia corporal: 'preocupação com meu aspecto físico não me deixava viver'",
+        "Notice": "https://g1.globo.com/saude/noticia/2022/03/29/dismorfia-corporal-preocupacao-com-meu-aspecto-fisico-nao-me-deixava-viver.ghtml",
+        "Image": "https://s2.glbimg.com/toJK0K7ijOUdBK_MRTLb91o2kro=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2022/1/6/PttTTLRzKWGXBAbK0MCg/disformia-corporal-1.jpg",
+        "Date": "Há 3 dias"
+    },
+    "Notícia 27": {
+        "Tittle": "“Precisamos criar uma cultura de vacinação para todas as faixas etárias”, diz especialista",
+        "Notice": "https://g1.globo.com/bemestar/blog/longevidade-modo-de-usar/post/2022/03/29/precisamos-criar-uma-cultura-de-vacinacao-para-todas-as-faixas-etarias-diz-especialista.ghtml",
+        "Image": "https://s2.glbimg.com/JmPaWCux2XTRNL6BIK0MpV5vKLU=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2022/N/K/1Gtx0pTDyWiGa52nBBlA/vacinasadultos6.jpg",
+        "Date": "Há 3 dias"
+    },
+    "Notícia 28": {
+        "Tittle": "Brasil tem 86 mortes por Covid-19 em 24 horas; média móvel está em 236",
+        "Notice": "https://g1.globo.com/saude/coronavirus/noticia/2022/03/28/brasil-tem-86-mortes-por-covid-19-em-24-horas-media-movel-esta-em-236.ghtml",
+        "Image": "https://s2.glbimg.com/sE7dzdq1Wh_LG9DlXT1cJAOtt0M=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2022/I/t/pnv9bITmiNWcBUQXtZrQ/14mm-mortes-arte.jpg",
+        "Date": "Há 4 dias"
+    },
+    "Notícia 29": {
+        "Tittle": "Vacinação contra a Covid: mais de 160 milhões de brasileiros estão totalmente imunizados",
+        "Notice": "https://g1.globo.com/saude/coronavirus/vacinas/noticia/2022/03/28/vacinacao-contra-a-covid-mais-de-160-milhoes-de-brasileiros-estao-totalmente-imunizados.ghtml",
+        "Image": "https://s2.glbimg.com/1yymloqQfySIQDkiM4h5x5h1C9I=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2022/U/U/VVmBBXTQKr7IKAmF1Nfg/total-de-criancas-entre-5-e-11-anos-vacinadas.png",
+        "Date": "Há 4 dias"
+    },
+    "Notícia 30": {
+        "Tittle": "Anvisa recomenda retirar exigência de teste de Covid para turistas vacinados e quarentena para não vacinados",
+        "Notice": "https://g1.globo.com/saude/noticia/2022/03/28/anvisa-recomenda-retirar-exigencia-de-teste-de-covid-para-turistas-vacinados-e-quarentena-para-viajantes-nao-vacinados.ghtml",
+        "Image": "https://s2.glbimg.com/UewH58BQfXeRjh13kwgY1zuAwJ0=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2021/2/1/7bmGJwRKOrBJTqNBBVcA/turistas-na-chegada-em-noronha.jpg",
+        "Date": "Há 4 dias"
+    },
+    "Notícia 31": {
+        "Tittle": "Anvisa suspende uso emergencial de dois medicamentos que tiveram 'queda significativa' na ação contra a ômicron",
+        "Notice": "https://g1.globo.com/saude/noticia/2022/03/28/anvisa-suspende-uso-emergencial-de-dois-medicamentos-que-apresentaram-demonstraram-queda-significativa-na-atividade-contra-a-omicron.ghtml",
+        "Image": "https://s2.glbimg.com/PpPe19eEncPLxHgEkMtZl_1why8=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/37/25/9452537",
+        "Date": "Há 4 dias"
+    },
+    "Notícia 32": {
+        "Tittle": "Alopecia: o que é a condição capilar que motivou tapa de Will Smith a Chris Rock no Oscar",
+        "Notice": "https://g1.globo.com/saude/stories/2022/03/28/alopecia-o-que-e-a-condicao-capilar-que-motivou-tapa-de-will-smith-a-chris-rock-no-oscar.ghtml",
+        "Image": "https://s2.glbimg.com/4itk9rWyVedb9wlTiw6vuam-Ij4=/fit-in/540x304/filters:fill(000)/https://s2.glbimg.com/-8C6ZbdZH9Jsr-0POecRKUa0_5o=/0x0:1080x1920/1080x1920/middle/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2022/F/U/7fPb5ERHqknxDRd087Og/novo-projeto-3-.jpg",
+        "Date": "Há 4 dias"
+    },
+    "Notícia 33": {
+        "Tittle": "Covid na China: o que levou país a impor confinamento aos 25 milhões de habitantes de Xangai",
+        "Notice": "https://g1.globo.com/saude/noticia/2022/03/28/covid-na-china-o-que-levou-pais-a-impor-confinamento-aos-25-milhoes-de-habitantes-de-xangai.ghtml",
+        "Image": "https://s2.glbimg.com/NNsQyVg7AHfwd_mHsoMaWJL7uxk=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2022/V/3/FrjwO0TzKP5q0AiQEjJw/2.jpg",
+        "Date": "Há 4 dias"
+    },
+    "Notícia 34": {
+        "Tittle": "Alopecia: o que é a condição capilar que motivou agressão de Will Smith a Chris Rock no Oscar",
+        "Notice": "https://g1.globo.com/saude/noticia/2022/03/28/alopecia-o-que-e-a-condicao-capilar-que-motivou-agressao-de-will-smith-a-chris-rock-no-oscar.ghtml",
+        "Image": "https://s2.glbimg.com/zGFpUC8FwEjPjHyf6vHn4Me7o-g=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/27/92/10429227",
+        "Date": "Há 4 dias"
+    },
+    "Notícia 35": {
+        "Tittle": "Covid: como proteger criança de até 5 anos, que ainda não pode tomar vacina",
+        "Notice": "https://g1.globo.com/saude/coronavirus/noticia/2022/03/28/covid-como-proteger-crianca-de-ate-5-anos-que-ainda-nao-pode-tomar-vacina.ghtml",
+        "Image": "https://s2.glbimg.com/aUmReqxOcblOCGRu4XhL_wM9qv8=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/O/k/IfAcu0RS2wNJ6eqy6rwg/ap20248332052229.jpg",
+        "Date": "Há 4 dias"
+    },
+    "Notícia 36": {
+        "Tittle": "Vacinação contra a Covid: 74,44% da população está totalmente imunizada",
+        "Notice": "https://g1.globo.com/saude/coronavirus/vacinas/noticia/2022/03/27/vacinacao-contra-a-covid-7444percent-da-populacao-esta-totalmente-imunizada.ghtml",
+        "Image": "https://s2.glbimg.com/5bCBih_5QYmuvuSiHhZYfBYSNNw=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2022/r/u/z5rQiKSH2GWr2tLt3gUA/zohgp-vacina-o-infantil-nos-estados-1-.png",
+        "Date": "Há 5 dias"
+    },
+    "Notícia 37": {
+        "Tittle": "Brasil tem 114 mortes por Covid-19 em 24 horas; média móvel está em 238",
+        "Notice": "https://g1.globo.com/saude/coronavirus/noticia/2022/03/27/brasil-tem-114-mortes-por-covid-19-em-24-horas-media-movel-esta-em-238.ghtml",
+        "Image": "https://s2.glbimg.com/GYoxiwpx7tCgHrGAvhuI99Etya8=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2022/6/V/lALWLGSnWMR72AQiKtWw/14mm-mortes-arte.png",
+        "Date": "Há 5 dias"
+    },
+    "Notícia 38": {
+        "Tittle": "Com Covid em alta, Xangai decide impor confinamentos temporários por setor",
+        "Notice": "https://g1.globo.com/mundo/noticia/2022/03/27/xangai-decide-impor-confinamentos-temporarios-por-setor.ghtml",
+        "Image": "https://s2.glbimg.com/fqmQZewiGuwKRAx9ti8R0rARtZY=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/62/03/10400362",
+        "Date": "Há 5 dias"
+    },
+    "Notícia 39": {
+        "Tittle": "Mortes relacionadas ao álcool dispararam durante a pandemia",
+        "Notice": "https://g1.globo.com/saude/noticia/2022/03/27/mortes-relacionadas-ao-alcool-dispararam-durante-a-pandemia.ghtml",
+        "Image": "https://s2.glbimg.com/92kl26rRmIbtdGXg2IIgGC_kxPQ=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2022/O/Z/BiJrfXSumJ2tf4DG25XA/image-18-.png",
+        "Date": "Há 5 dias"
+    },
+    "Notícia 40": {
+        "Tittle": "Que tal embarcar na roda da juventude?",
+        "Notice": "https://g1.globo.com/bemestar/blog/longevidade-modo-de-usar/post/2022/03/27/que-tal-embarcar-na-roda-da-juventude.ghtml",
+        "Image": "https://s2.glbimg.com/yv6SWVKqAkXnaw8TddqNeGUQp7s=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2022/j/y/qbPWPIRayPT7bz8znCHw/aurelioalfiericreditoguilhermerochadeoliveirabaixa.jpg",
+        "Date": "Há 5 dias"
+    },
+    "Notícia 41": {
+        "Tittle": "Enem 2022: participantes podem pedir isenção da taxa de inscrição a partir de segunda-feira (4)",
+        "Notice": "https://g1.globo.com/educacao/noticia/2022/04/01/enem-2022-prazo-edido-de-isencao.ghtml",
+        "Image": "https://s2.glbimg.com/V6CsNLD6MTquJ6Y8J4vMhunNfXE=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/08/27/10342708",
+        "Date": "Há 39 minutos"
+    },
+    "Notícia 42": {
+        "Tittle": "Inep republica microdados da educação básica em modelo simplificado; mudança compromete análise de desempenho de alunos, diz ex-diretora",
+        "Notice": "https://g1.globo.com/educacao/noticia/2022/04/01/inep-republica-microdados-da-educacao-basica-em-modelo-simplificado-mudanca-compromete-analise-de-desempenho-de-alunos-diz-ex-diretora.ghtml",
+        "Image": "https://s2.glbimg.com/ypFRdx4ZBtcsOJqsiAPxOPZRMok=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/44/07/10400744",
+        "Date": "Há 2 horas"
+    },
+    "Notícia 43": {
+        "Tittle": "Covid-19: UFV mantém obrigatoriedade do uso de máscara nos espaços coletivos da instituição",
+        "Notice": "https://g1.globo.com/mg/zona-da-mata/noticia/2022/04/01/covid-19-ufv-mantem-obrigatoriedade-do-uso-de-mascara-nos-espacos-coletivos-da-instituicao.ghtml",
+        "Image": "https://s2.glbimg.com/kO0QgJSqNe9_6dvdNnpxOVQHXFs=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2017/o/p/ypO5KFQlK46oGuFnceKA/uv-medicina.jpg",
         "Date": "Há 5 horas"
     },
-    "Notícia 12": {
-        "Tittle": "UFU abre matrículas para aprovados na primeira chamada da lista de espera do Sisu 2022.1; veja como fazer",
-        "Notice": "https://g1.globo.com/mg/triangulo-mineiro/noticia/2022/03/31/ufu-abre-matriculas-para-aprovados-na-primeira-chamada-da-lista-de-espera-do-sisu-20221-veja-como-fazer.ghtml",
-        "Image": "https://s2.glbimg.com/4Dkhbe1mQgL7SFifUILTFRNiFfU=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2018/4/2/qdcAP8ROysCsBQObX7Zg/10451847-600835910056766-2389245583786899104-n.jpg",
-        "Date": "Há 6 horas"
-    },
-    "Notícia 13": {
-        "Tittle": "Juiz-forano que ficou em 1º em concurso da Petrobras diz que nunca tinha tentado antes; veja qual foi o segredo",
-        "Notice": "https://g1.globo.com/mg/zona-da-mata/noticia/2022/03/31/juiz-forano-que-ficou-em-1o-em-concurso-da-petrobras-diz-que-nunca-tinha-prestado-concurso-antes-veja-qual-foi-o-segredo.ghtml",
-        "Image": "https://s2.glbimg.com/egmTV9KYYsnrtygcub4GfjpHk8w=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2022/4/O/POnfC3SIacgSAknMmhAg/whatsapp-image-2022-03-30-at-10.31.36.jpeg",
-        "Date": "Há 6 horas"
-    },
-    "Notícia 14": {
+    "Notícia 44": {
         "Tittle": "App g1 do Enem",
         "Notice": null,
         "Image": "0",
         "Date": "Há 6 meses"
     },
-    "Notícia 15": {
+    "Notícia 45": {
         "Tittle": "g1 Enem",
         "Notice": null,
         "Image": "0",
         "Date": "Há 6 meses"
     },
-    "Notícia 16": {
+    "Notícia 46": {
+        "Tittle": "Ufes vai exigir comprovante de vacinação para estudantes no retorno das aulas presenciais",
+        "Notice": "https://g1.globo.com/es/espirito-santo/noticia/2022/03/31/ufes-vai-exigir-comprovante-de-vacinacao-para-estudantes-no-retorno-das-aulas-presenciais.ghtml",
+        "Image": "https://s2.glbimg.com/AZY812-f1mxEhGKcPtExtyXD-vk=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/46/12/10401246",
+        "Date": "Ontem"
+    },
+    "Notícia 47": {
+        "Tittle": "UFU abre matrículas para aprovados na primeira chamada da lista de espera do Sisu 2022.1; veja como fazer",
+        "Notice": "https://g1.globo.com/mg/triangulo-mineiro/noticia/2022/03/31/ufu-abre-matriculas-para-aprovados-na-primeira-chamada-da-lista-de-espera-do-sisu-20221-veja-como-fazer.ghtml",
+        "Image": "https://s2.glbimg.com/4Dkhbe1mQgL7SFifUILTFRNiFfU=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2018/4/2/qdcAP8ROysCsBQObX7Zg/10451847-600835910056766-2389245583786899104-n.jpg",
+        "Date": "Ontem"
+    },
+    "Notícia 48": {
+        "Tittle": "Juiz-forano que ficou em 1º em concurso da Petrobras diz que nunca tinha tentado antes; veja qual foi o segredo",
+        "Notice": "https://g1.globo.com/mg/zona-da-mata/noticia/2022/03/31/juiz-forano-que-ficou-em-1o-em-concurso-da-petrobras-diz-que-nunca-tinha-prestado-concurso-antes-veja-qual-foi-o-segredo.ghtml",
+        "Image": "https://s2.glbimg.com/egmTV9KYYsnrtygcub4GfjpHk8w=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2022/4/O/POnfC3SIacgSAknMmhAg/whatsapp-image-2022-03-30-at-10.31.36.jpeg",
+        "Date": "Ontem"
+    },
+    "Notícia 49": {
         "Tittle": "Saiba o que é linguagem neutra, que usa, por exemplo, 'todxs' e 'amigues'",
         "Notice": "https://g1.globo.com/educacao/noticia/2022/03/31/saiba-o-que-e-linguagem-neutra-que-usa-por-exemplo-todxs-e-amigues.ghtml",
         "Image": "0",
-        "Date": "Há 7 horas"
+        "Date": "Ontem"
     },
-    "Notícia 17": {
+    "Notícia 50": {
         "Tittle": "Milton Ribeiro diz que não irá ao Senado para explicar suspeitas no MEC, informa ministério",
         "Notice": "https://g1.globo.com/politica/noticia/2022/03/30/milton-ribeiro-diz-a-comissao-do-senado-que-nao-ira-a-audiencia-para-explicar-suspeitas-no-mec.ghtml",
         "Image": "https://s2.glbimg.com/Q0Fb0AV99E5U0xaJE6IRuVCP81w=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/08/45/10414508",
-        "Date": "Há 18 horas"
+        "Date": "Há 2 dias"
     },
-    "Notícia 18": {
+    "Notícia 51": {
         "Tittle": "Novo ministro da Educação diz que atuará 'com rigor' para melhorar transparência no uso de recursos e colaborará com 'órgãos de investigação'",
         "Notice": "https://g1.globo.com/educacao/noticia/2022/03/30/novo-ministro-da-educacao-diz-que-atuara-com-rigor-para-melhorar-transparencia-no-uso-de-recursos-e-colaborara-com-orgaos-de-investigacao.ghtml",
         "Image": "https://s2.glbimg.com/IyZ-sqD9GWilLGYuE_1LBiNf8gc=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/47/75/10437547",
-        "Date": "Há 22 horas"
+        "Date": "Há 2 dias"
     },
-    "Notícia 19": {
+    "Notícia 52": {
         "Tittle": "Veja quem é Victor Godoy Veiga, nomeado para ocupar o Ministério da Educação interinamente",
         "Notice": "https://g1.globo.com/educacao/noticia/2022/03/30/veja-quem-e-victor-godoy-veiga-nomeado-para-ocupar-o-ministerio-da-educacao-interinamente.ghtml",
         "Image": "https://s2.glbimg.com/IyZ-sqD9GWilLGYuE_1LBiNf8gc=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/47/75/10437547",
-        "Date": "Há 2 dias"
+        "Date": "Há 3 dias"
     },
-    "Notícia 20": {
+    "Notícia 53": {
         "Tittle": "Victor Godoy Veiga é nomeado para ocupar o Ministério da Educação interinamente",
         "Notice": "https://g1.globo.com/educacao/noticia/2022/03/30/victor-godoy-veiga-e-nomeado-para-ocupar-o-ministerio-da-educacao-interinamente.ghtml",
         "Image": "https://s2.glbimg.com/IyZ-sqD9GWilLGYuE_1LBiNf8gc=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/47/75/10437547",
-        "Date": "Há 2 dias"
+        "Date": "Há 3 dias"
     },
-    "Notícia 21": {
+    "Notícia 54": {
+        "Tittle": "Enem 2022: gestores recomendam a reaplicação de itens já utilizados no exame",
+        "Notice": "https://g1.globo.com/educacao/noticia/2022/03/29/enem-2022-inep-recomenda-a-reaplicacao-de-itens-ja-utilizados-no-exame.ghtml",
+        "Image": "https://s2.glbimg.com/uFAWghgZ99k3N3SsNf4EcglpoAU=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2021/M/c/4HCSLXTZ6QZhEjT1ANFw/enem-2dia-20211128-0034.jpg",
+        "Date": "Há 3 dias"
+    },
+    "Notícia 55": {
+        "Tittle": "Enem 2022: participantes podem pedir isenção da taxa de inscrição a partir de segunda-feira (4)",
+        "Notice": "https://g1.globo.com/educacao/noticia/2022/03/29/enem-2022-participantes-podem-pedir-isencao-da-taxa-de-inscricao-a-partir-de-segunda-feira-4.ghtml",
+        "Image": "https://s2.glbimg.com/V6CsNLD6MTquJ6Y8J4vMhunNfXE=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/08/27/10342708",
+        "Date": "Há 3 dias"
+    },
+    "Notícia 56": {
+        "Tittle": "Revalida 2021: lista de aprovados na 2ª etapa é divulgada",
+        "Notice": "https://g1.globo.com/educacao/noticia/2022/03/29/revalida-2021-lista-de-aprovados-na-2a-etapa-e-divulgada.ghtml",
+        "Image": "https://s2.glbimg.com/NZsT7D31jeMHbDqabPNjOn5Mr1g=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2021/l/k/jQx0KSQnGxCw7PFNBaVg/revalida2020.png",
+        "Date": "Há 3 dias"
+    },
+    "Notícia 57": {
+        "Tittle": "Depoimento de Ribeiro está mantido, e falta será 'chamamento' para CPI, diz senador",
+        "Notice": "https://g1.globo.com/politica/noticia/2022/03/29/depoimento-de-ribeiro-esta-mantido-e-falta-sera-chamamento-para-cpi-do-mec-diz-senador.ghtml",
+        "Image": "https://s2.glbimg.com/ANWb6epFpR19yGObhdxaT3gTBCU=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/88/24/10432488",
+        "Date": "Há 3 dias"
+    },
+    "Notícia 58": {
+        "Tittle": "Crise no MEC: entidades cobram que Milton Ribeiro seja investigado mesmo após deixar o MEC",
+        "Notice": "https://g1.globo.com/educacao/noticia/2022/03/28/crise-no-mec-entidades-cobram-que-milton-ribeiro-seja-investigado-mesmo-apos-deixar-o-mec.ghtml",
+        "Image": "https://s2.glbimg.com/roq5iKg8zm2hy65pvJRQjO0RLeI=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/30/18/10431830",
+        "Date": "Há 4 dias"
+    },
+    "Notícia 59": {
+        "Tittle": "Por que o FNDE, palco do escândalo dos pastores, é considerado uma pérola tão disputada no MEC?",
+        "Notice": "https://g1.globo.com/educacao/noticia/2022/03/28/por-que-o-fnde-palco-do-escandalo-dos-pastores-e-considerado-uma-perola-tao-disputada-no-mec.ghtml",
+        "Image": "https://s2.glbimg.com/aBH0t-azVZ0JImouUTB-mAaa1KE=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2022/u/v/DvxDZjQSunzQa96QtaGw/captura-de-tela-2022-03-25-163542.jpg",
+        "Date": "Há 4 dias"
+    },
+    "Notícia 60": {
+        "Tittle": "Exoneração de Milton Ribeiro repercute no Congresso; saiba o que se disse no meio político",
+        "Notice": "https://g1.globo.com/politica/noticia/2022/03/28/exoneracao-de-milton-ribeiro-repercute-no-congresso-saiba-o-que-disseram-os-parlamentares.ghtml",
+        "Image": "https://s2.glbimg.com/pozbHgWMf5Zk7XVo9ZLlGGzz4Hg=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/20/18/10431820",
+        "Date": "Há 4 dias"
+    },
+    "Notícia 61": {
+        "Tittle": "Trocas de Bolsonaro no Ministério da Educação só perdem para o mandato dividido entre Dilma e Temer",
+        "Notice": "https://g1.globo.com/politica/noticia/2022/03/28/trocas-de-bolsonaro-no-ministerio-da-educacao-so-perdem-para-governo-dilmatemer.ghtml",
+        "Image": "https://s2.glbimg.com/k_AxUaBE25Q4QWn_ZR39F4b2jkI=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2022/T/F/6N2KVQRuOAoWtGqdowFQ/milton-ribeiro.jpg",
+        "Date": "Há 4 dias"
+    },
+    "Notícia 62": {
+        "Tittle": "Governo oficializa saída de Milton Ribeiro, quarto ministro da Educação de Bolsonaro",
+        "Notice": "https://g1.globo.com/politica/noticia/2022/03/28/governo-oficializa-saida-de-milton-ribeiro-quarto-ministro-da-educacao-de-bolsonaro.ghtml",
+        "Image": "https://s2.glbimg.com/ZvWUj5fg_uMsHPBJIypuVxUncQM=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/82/24/10432482",
+        "Date": "Há 4 dias"
+    },
+    "Notícia 63": {
+        "Tittle": "Milton Ribeiro entrega pedido de exoneração a Bolsonaro",
+        "Notice": "https://g1.globo.com/politica/blog/natuza-nery/post/2022/03/28/ministro-educacao-milton-ribeiro-entrega-pedido-de-exoneracao-a-bolsonaro.ghtml",
+        "Image": "https://s2.glbimg.com/DsGSthovguQ9zRbBGGTP1XX2cmM=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/15/17/10431715",
+        "Date": "Há 4 dias"
+    },
+    "Notícia 64": {
+        "Tittle": "Vestibular indígena: prova unificada da Unicamp e UFSCar tem abstenção de 48,6% após baixa de nove pontos percentuais",
+        "Notice": "https://g1.globo.com/sp/campinas-regiao/noticia/2022/03/28/vestibular-indigena-prova-unificada-da-unicamp-e-ufscar-tem-abstencao-de-486percent-apos-baixa-de-nove-pontos-percentuais.ghtml",
+        "Image": "https://s2.glbimg.com/ul1isYUTx83ok2SdWf3VSkPyFig=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/X/d/1rGLXzSlCgY8cc81Golw/unicamp-campus.jpg",
+        "Date": "Há 4 dias"
+    },
+    "Notícia 65": {
+        "Tittle": "Foto em Bíblia, debandadas e suposta tentativa de interferência no Enem: Milton Ribeiro coleciona polêmicas no MEC",
+        "Notice": "https://g1.globo.com/educacao/noticia/2022/03/28/milton-ribeiro-polemicas-ministerio-da-educacao.ghtml",
+        "Image": "https://s2.glbimg.com/bT5AY7WdjxYf-0YJVws0xeDDIjw=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/35/37/10413735",
+        "Date": "Há 4 dias"
+    },
+    "Notícia 66": {
+        "Tittle": "Milton Ribeiro diz que autorizou produção de Bíblias com sua imagem",
+        "Notice": "https://g1.globo.com/educacao/noticia/2022/03/28/milton-ribeiro-biblias.ghtml",
+        "Image": "https://s2.glbimg.com/qkJlhmXcICngNXx8OKRpRC94Oig=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/66/03/10430366",
+        "Date": "Há 4 dias"
+    },
+    "Notícia 67": {
+        "Tittle": "Governo federal não retomou controle de frequência escolar de crianças que recebem Auxílio Brasil após volta às aulas presenciais",
+        "Notice": "https://g1.globo.com/sp/sao-paulo/educacao/noticia/2022/03/28/governo-federal-nao-retomou-controle-de-frequencia-escolar-de-criancas-que-recebem-auxilio-brasil-apos-volta-as-aulas-presenciais.ghtml",
+        "Image": "https://s2.glbimg.com/qZ-I3kngdZBR-4kmcNdYcUDQKyE=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/79/65/10396579",
+        "Date": "Há 4 dias"
+    },
+    "Notícia 68": {
+        "Tittle": "Alunos pisam pela 1ª vez nas universidades após 2 anos de aulas remotas em Ribeirão e Franca: 'Sensação de escola nova na primeira série'",
+        "Notice": "https://g1.globo.com/sp/ribeirao-preto-franca/noticia/2022/03/28/alunos-pisam-pela-1a-vez-nas-universidades-apos-2-anos-de-aulas-remotas-em-ribeirao-e-franca-sensacao-de-escola-nova-na-primeira-serie.ghtml",
+        "Image": "https://s2.glbimg.com/_qDinE34IHmoD1TbM-bRfN7gFQs=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/69/74/10417469",
+        "Date": "Há 4 dias"
+    },
+    "Notícia 69": {
+        "Tittle": "Brasileiro viaja pelo interior do país distribuindo livros a crianças",
+        "Notice": "https://g1.globo.com/educacao/noticia/2022/03/27/brasileiro-viaja-pelo-interior-do-pais-distribuindo-livros-a-criancas.ghtml",
+        "Image": "https://s2.glbimg.com/hQ_8u-4jGCQrcqbsA2gFp8VB-ao=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2022/I/O/srKBALQHqEaP7PLOvZ1w/image-32-.png",
+        "Date": "Há 5 dias"
+    },
+    "Notícia 70": {
+        "Tittle": "Vestibular indígena: 2,8 mil fazem prova unificada da Unicamp e UFSCar neste domingo",
+        "Notice": "https://g1.globo.com/sp/campinas-regiao/noticia/2022/03/27/vestibular-indigena-28-mil-fazem-prova-unificada-da-unicamp-e-ufscar-neste-domingo.ghtml",
+        "Image": "https://s2.glbimg.com/6-rxW4vxHqnbHvHikKy40lmmT2k=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2022/L/T/AVntBKRvONIiMDuqmCAw/whatsapp-image-2022-03-27-at-13.37.55.jpeg",
+        "Date": "Há 5 dias"
+    },
+    "Notícia 71": {
+        "Tittle": "PF abre inquérito para investigar ministro da Educação e suposto favorecimento a pastores",
+        "Notice": "https://g1.globo.com/politica/noticia/2022/03/25/pf-abre-inquerito-para-investigar-ministro-da-educacao.ghtml",
+        "Image": "https://s2.glbimg.com/XsoS3jPX7_67bM0pVqCyv1lSr5Q=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/49/26/10422649",
+        "Date": "Há 7 dias"
+    },
+    "Notícia 72": {
+        "Tittle": "Unicamp: decisão do TJ-SP anula exclusão de estudante aprovado em vestibular por sistema de cotas",
+        "Notice": "https://g1.globo.com/sp/campinas-regiao/noticia/2022/03/25/unicamp-decisao-do-tj-sp-anula-exclusao-de-estudante-aprovado-em-vestibular-por-sistema-de-cotas.ghtml",
+        "Image": "https://s2.glbimg.com/aVdFMGDrMNcIX5g4p5RechP6QEY=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2021/d/u/Yl6TORTv6v3jN9j6tfIg/unicamp-final.jpg",
+        "Date": "Há 7 dias"
+    },
+    "Notícia 73": {
+        "Tittle": "'Home office' não é home office em inglês; entenda",
+        "Notice": "https://g1.globo.com/educacao/noticia/2022/03/25/home-office-nao-e-home-office-em-ingles-entenda.ghtml",
+        "Image": "https://s2.glbimg.com/LrF7uYldgL2bhWGzDuTBf3RWq68=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/41/17/10241741",
+        "Date": "Há 1 semana"
+    },
+    "Notícia 74": {
+        "Tittle": "Vestibular indígena da Unicamp e UFSCar mantém obrigatoriedade da máscara, espera abstenção menor e destaca apoio de coletivos",
+        "Notice": "https://g1.globo.com/sp/campinas-regiao/noticia/2022/03/25/vestibular-indigena-da-unicamp-e-ufscar-mantem-obrigatoriedade-da-mascara-espera-abstencao-menor-e-destaca-apoio-de-coletivos.ghtml",
+        "Image": "https://s2.glbimg.com/Zr6NaU0X2PwGs0oggSaZllIvtaQ=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/x/k/DFTAqoTPGphPcn0xks6Q/atu-vest-indigena-20191202-amp-1.jpg",
+        "Date": "Há 1 semana"
+    },
+    "Notícia 75": {
+        "Tittle": "Justiça concede liminar reservando vaga para jovem autodeclarada parda desclassificada em avaliação de cotistas da UFPE",
+        "Notice": "https://g1.globo.com/pe/pernambuco/noticia/2022/03/25/justica-concede-liminar-reservando-vaga-para-jovem-autodeclarada-parda-desclassificada-em-avaliacao-de-cotistas-da-ufpe.ghtml",
+        "Image": "https://s2.glbimg.com/LKRGrLC3iqjOJxfbYKxmoOXNRWM=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/33/33/10403333",
+        "Date": "Há 1 semana"
+    },
+    "Notícia 76": {
+        "Tittle": "Alunos cobram término das obras na moradia estudantil e param aulas na Unesp de Franca, SP",
+        "Notice": "https://g1.globo.com/sp/ribeirao-preto-franca/noticia/2022/03/25/alunos-cobram-termino-das-obras-na-moradia-estudantil-e-param-aulas-na-unesp-de-franca-sp.ghtml",
+        "Image": "https://s2.glbimg.com/3vu_E0LqMuZ3csNNCXw1PNtU9CA=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/23/13/10421323",
+        "Date": "Há 1 semana"
+    },
+    "Notícia 77": {
+        "Tittle": "Bolsonaro diz que Milton Ribeiro é alvo de 'covardia': 'Boto a minha cara no fogo por ele'",
+        "Notice": "https://g1.globo.com/politica/noticia/2022/03/24/bolsonaro-diz-que-milton-ribeiro-e-alvo-de-covardia-boto-a-minha-cara-no-fogo-por-ele.ghtml",
+        "Image": "https://s2.glbimg.com/Q0Fb0AV99E5U0xaJE6IRuVCP81w=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/08/45/10414508",
+        "Date": "Há 1 semana"
+    },
+    "Notícia 78": {
+        "Tittle": "MPF vai apurar se houve irregularidades na liberação de verbas federais da educação",
+        "Notice": "https://g1.globo.com/politica/noticia/2022/03/24/mpf-vai-apurar-se-houve-irregularidades-na-liberacao-de-verbas-federais-da-educacao.ghtml",
+        "Image": "https://s2.glbimg.com/uE79_ywm2EqFu_8-XAJWU-Z9RTg=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/86/03/10420386",
+        "Date": "Há 1 semana"
+    },
+    "Notícia 79": {
+        "Tittle": "Unir vai exigir comprovante de vacinação contra Covid para volta às aulas presenciais",
+        "Notice": "https://g1.globo.com/ro/rondonia/noticia/2022/03/24/unir-vai-exigir-comprovante-de-vacinacao-contra-covid-para-volta-as-aulas-presenciais.ghtml",
+        "Image": "https://s2.glbimg.com/6nXfeSmIFiY3Wv34Vv-FuBmp0Sc=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2018/v/e/Gom9a0THmzaIDbkTyRCg/20180605-144027.jpg",
+        "Date": "Há 1 semana"
+    },
+    "Notícia 80": {
+        "Tittle": "Prefeito que ouviu de pastor pedido de propina em ouro diz temer pela própria vida",
+        "Notice": "https://g1.globo.com/economia/blog/ana-flor/post/2022/03/24/prefeito-que-recebeu-de-pastor-pedido-de-propina-em-ouro-diz-temer-pela-propria-vida.ghtml",
+        "Image": "https://s2.glbimg.com/mUPg2KNaKf3_K-09KVdfZDZwDFE=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/57/92/10419257",
+        "Date": "Há 1 semana"
+    },
+    "Notícia 81": {
+        "Tittle": "Conheça SPOT, robô de 4 patas projetado para proteger ruínas de Pompeia",
+        "Notice": "https://g1.globo.com/economia/tecnologia/video/conheca-spot-robo-de-4-patas-projetado-para-proteger-ruinas-de-pompeia-10444081.ghtml",
+        "Image": "https://s2.glbimg.com/lnWTmXAd4eeblCO89cK34C2_sso=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/81/40/10444081",
+        "Date": "Há 6 horas"
+    },
+    "Notícia 82": {
+        "Tittle": "Robô de quatro patas e drone vão proteger ruínas de Pompeia",
+        "Notice": "https://g1.globo.com/tecnologia/noticia/2022/04/01/robo-de-quatro-patas-e-drone-vao-proteger-ruinas-de-pompeia.ghtml",
+        "Image": "https://s2.glbimg.com/lnWTmXAd4eeblCO89cK34C2_sso=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/81/40/10444081",
+        "Date": "Há 7 horas"
+    },
+    "Notícia 83": {
+        "Tittle": "Capinhas de celular: conheça opções para proteger o smartphone",
+        "Notice": "https://g1.globo.com/especiais/guia-de-compras/noticia/2022/04/01/capinhas-de-celular-conheca-opcoes-para-proteger-o-smartphone.ghtml",
+        "Image": "https://s2.glbimg.com/tLo6kuUU09yhFOQZq6QL0kYCKUw=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2022/f/q/SyfhgUQUWkjeV6rHrvZA/selo-home.jpg",
+        "Date": "Há 10 horas"
+    },
+    "Notícia 84": {
         "Tittle": "Instagram cria recurso para enviar trechos de músicas em mensagens; veja como funciona",
         "Notice": "https://g1.globo.com/tecnologia/noticia/2022/03/31/instagram-cria-recursos-para-enviar-trechos-de-musicas-em-mensagens-veja-como-funciona.ghtml",
         "Image": "https://s2.glbimg.com/3dIVCU6W3d7ZcnucbBUgpMgrI64=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2022/R/R/glHe8US8uanUS9kdePiw/instagram-musica-mensagens.png",
-        "Date": "Há 1 hora"
+        "Date": "Ontem"
     },
-    "Notícia 22": {
-        "Tittle": "Relator de projeto das 'fake news' quer exigir de provedor e aplicativo abertura de empresa no Brasil",
+    "Notícia 85": {
+        "Tittle": "Relator de projeto das 'fake news' quer que provedor e aplicativo mantenham representação de pessoa jurídica no Brasil",
         "Notice": "https://g1.globo.com/politica/noticia/2022/03/31/relator-de-projeto-das-fake-news-quer-exigir-de-provedor-e-aplicativo-abertura-de-empresa-no-brasil.ghtml",
-        "Image": "https://s2.glbimg.com/VystIM6oVs0JEmDORovrXpy2rrA=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/58/75/10407558",
-        "Date": "Há 1 hora"
+        "Image": "https://s2.glbimg.com/lqVII3tGEby4lJbfk_WbkFnr7lM=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/09/31/10443109",
+        "Date": "Ontem"
     },
-    "Notícia 23": {
+    "Notícia 86": {
         "Tittle": "Blue Origin, de Jeff Bezos, realiza quarta missão espacial tripulada",
         "Notice": "https://g1.globo.com/inovacao/noticia/2022/03/31/blue-origin-jeff-bezos-quarta-missao-espacial-tripulada.ghtml",
-        "Image": "https://s2.glbimg.com/xSEb7ezv9Ep31Byuc81ABlrgLBg=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2022/S/V/pPgIzxRZa82pbl9qCt9Q/captura-de-tela-2022-03-31-as-11.11.59.png",
-        "Date": "Há 4 horas"
+        "Image": "https://s2.glbimg.com/qKkyRdoYz5UuAuqgsl7aUx5aWa0=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/75/18/10441875",
+        "Date": "Ontem"
     },
-    "Notícia 24": {
+    "Notícia 87": {
         "Tittle": "Waymo oferece caronas em carros autônomos para funcionários nos EUA",
         "Notice": "https://g1.globo.com/tecnologia/noticia/2022/03/31/waymo-oferece-caronas-em-carros-autonomos-para-funcionarios-nos-eua.ghtml",
         "Image": "https://s2.glbimg.com/rRzW93Sab_lwW0f1gyojvGtMv3A=/540x304/top/smart/http://s.glbimg.com/jo/g1/f/original/2017/04/25/waymo_minivan_7.jpg",
-        "Date": "Há 6 horas"
+        "Date": "Ontem"
     },
-    "Notícia 25": {
+    "Notícia 88": {
         "Tittle": "Dia Internacional do Backup: saiba como proteger seu histórico de conversas no WhatsApp",
         "Notice": "https://g1.globo.com/tecnologia/noticia/2022/03/31/saiba-como-proteger-seu-historico-de-conversas-no-whatsapp.ghtml",
         "Image": "https://s2.glbimg.com/wddIkXlwZGfOBDdds8jf1HABFBA=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/75/86/9588675",
-        "Date": "Há 9 horas"
+        "Date": "Ontem"
     },
-    "Notícia 26": {
+    "Notícia 89": {
         "Tittle": "Fone de ouvido com purificador de ar promete proteger usuários contra poluição; veja como funciona",
         "Notice": "https://g1.globo.com/inovacao/noticia/2022/03/30/fone-de-ouvido-com-purificador-de-ar-promete-proteger-usuarios-contra-poluicao-veja-como-funciona.ghtml",
         "Image": "https://s2.glbimg.com/-BvXa0mUntlssqfR4UKOCtMJncA=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2022/i/u/rOZJqARamgBvQ1eqXKVQ/dyson-zone-fone-de-ouvido.jpg",
-        "Date": "Há 22 horas"
+        "Date": "Há 2 dias"
     },
-    "Notícia 27": {
+    "Notícia 90": {
         "Tittle": "WhatsApp anuncia novos recursos para mensagens de voz",
         "Notice": "https://g1.globo.com/tecnologia/noticia/2022/03/30/whatsapp-anuncia-novos-recursos-para-mensagens-de-audio.ghtml",
         "Image": "https://s2.glbimg.com/wddIkXlwZGfOBDdds8jf1HABFBA=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/75/86/9588675",
-        "Date": "Ontem"
+        "Date": "Há 2 dias"
     },
-    "Notícia 28": {
+    "Notícia 91": {
         "Tittle": "Saiba como transferir online o título de eleitor e veja prazo para regularizar a tempo de votar em 2022",
         "Notice": "https://g1.globo.com/politica/eleicoes/2022/noticia/2022/03/30/saiba-como-transferir-online-o-titulo-de-eleitor-e-veja-prazo-para-regularizar-a-tempo-de-votar-em-2022.ghtml",
-        "Image": "https://s2.glbimg.com/6E9JOzgFy1mfl0ntk9kPgVlVkv4=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2022/u/9/s1bdQZSH2bNu3CeAOiPA/laura-1.jpg",
-        "Date": "Ontem"
+        "Image": "https://s2.glbimg.com/jU76DDZG0TNH_-kI2LLWexo633c=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/52/51/10445152",
+        "Date": "Há 2 dias"
     },
-    "Notícia 29": {
+    "Notícia 92": {
         "Tittle": "YouTube Vanced: o que é o aplicativo e por que ele foi banido pelo Google",
         "Notice": "https://g1.globo.com/tecnologia/noticia/2022/03/30/youtube-vanced-o-que-e-o-aplicativo-e-por-que-ele-foi-banido-pelo-google.ghtml",
         "Image": "https://s2.glbimg.com/gIF3Eh9Nod6Ra1hM1GvquDJpBXU=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2021/c/G/Xubah6R0uL3hzO0S9VpQ/2021-07-20t154807z-420819583-rc2foo9puadw-rtrmadp-3-alphabet-youtube-creators.jpg",
-        "Date": "Ontem"
+        "Date": "Há 2 dias"
     },
-    "Notícia 30": {
+    "Notícia 93": {
         "Tittle": "É #FAKE que WhatsApp possa publicar fotos e conteúdo de usuários",
         "Notice": "https://g1.globo.com/fato-ou-fake/noticia/2022/03/29/e-fake-mensagem-que-diz-que-whatsapp-pode-usar-e-publicar-fotos-e-mensagens-de-usuarios.ghtml",
         "Image": "https://s2.glbimg.com/DThH2hqRg3DlLe_9Q7WYpi-neeE=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/43/95/7239543",
-        "Date": "Há 2 dias"
+        "Date": "Há 3 dias"
+    },
+    "Notícia 94": {
+        "Tittle": "Vereadores da CPI dos Aplicativos fazem visita surpresa à sede da Uber e encontram poucas pessoas",
+        "Notice": "https://g1.globo.com/sp/sao-paulo/noticia/2022/03/29/vereadores-da-cpi-dos-aplicativos-fazem-visita-surpresa-a-sede-da-uber-e-nao-encontram-ninguem.ghtml",
+        "Image": "https://s2.glbimg.com/IQGcgt_9r3pk1aXALQcV9n2HhGI=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/92/55/10435592",
+        "Date": "Há 3 dias"
+    },
+    "Notícia 95": {
+        "Tittle": "Messenger ganha recurso de mensagens silenciosas para quem não deseja incomodar outras pessoas",
+        "Notice": "https://g1.globo.com/tecnologia/noticia/2022/03/29/messenger-ganha-recurso-de-mensagens-silenciosas-para-quem-nao-deseja-incomodar-outras-pessoas.ghtml",
+        "Image": "https://s2.glbimg.com/DVzySWb3VLDiH6YvAEe4qnQHFug=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2022/C/Z/0aAUFvTMe5hu0lUnQ7iw/messenger-atalhos.png",
+        "Date": "Há 3 dias"
+    },
+    "Notícia 96": {
+        "Tittle": "LinkedIn altera política global de anúncios e passa a divulgar vagas voltadas para negros e indígenas",
+        "Notice": "https://g1.globo.com/tecnologia/noticia/2022/03/29/linkedin-altera-politica-global-de-anuncio-para-divulgar-vagas-a-grupos-considerados-desfavorecidos.ghtml",
+        "Image": "https://s2.glbimg.com/S8AhWmm91opeCl00SA88Tc4jVgQ=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2017/B/g/wHu4q2QwydK5LIR2CDYg/2017-03-22t171601z-664437383-rc141c5202a0-rtrmadp-3-linkedin-socialmedia.jpg",
+        "Date": "Há 3 dias"
+    },
+    "Notícia 97": {
+        "Tittle": "Usuários relatam instabilidade no Instagram nesta terça-feira (29)",
+        "Notice": "https://g1.globo.com/tecnologia/noticia/2022/03/29/instagram-apresenta-instabilidade-nesta-terca.ghtml",
+        "Image": "https://s2.glbimg.com/2ZdewPeIlX3jKG9WjGOQbWsJ-yQ=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2021/5/3/A8BYbVRvK4FFhFEfGr2Q/2021-05-26t130024z-1066180767-rc2pnn9v7ymc-rtrmadp-3-facebook-likes.jpg",
+        "Date": "Há 3 dias"
+    },
+    "Notícia 98": {
+        "Tittle": "Rússia deve ganhar alternativa à Play Store após restrições do Google",
+        "Notice": "https://g1.globo.com/tecnologia/noticia/2022/03/29/russia-deve-ganhar-alternativa-a-play-store-apos-restricoes-do-google.ghtml",
+        "Image": "https://s2.glbimg.com/WnrtmRF5QfwaDDvX8pOOwvtwEVA=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2022/Q/C/vnpMyzRredclDHn2BU1g/2022-02-11t105519z-73642543-rc2lwq98avth-rtrmadp-3-eu-alphabet-publishers.jpg",
+        "Date": "Há 3 dias"
+    },
+    "Notícia 99": {
+        "Tittle": "Cabos, docks e carregadores: veja opções para celular, tablet e notebook",
+        "Notice": "https://g1.globo.com/especiais/guia-de-compras/noticia/2022/03/29/cabos-docks-e-carregadores-veja-opcoes-para-celular-tablet-e-notebook.ghtml",
+        "Image": "https://s2.glbimg.com/-h8FxE79gKGCKJipWf9GBHsAj6E=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2022/m/u/i8sXsjQuikxKtVO7MfPg/guiadecompras-cabos-editavel-selo-home.jpg",
+        "Date": "Há 3 dias"
+    },
+    "Notícia 100": {
+        "Tittle": "Estatal ucraniana de telecomunicações é alvo de ciberataque",
+        "Notice": "https://g1.globo.com/tecnologia/noticia/2022/03/28/estatal-ucraniana-de-telecomunicacoes-e-alvo-de-ciberataque.ghtml",
+        "Image": "0",
+        "Date": "Há 4 dias"
+    },
+    "Notícia 101": {
+        "Tittle": "Pesquisa com usuários aponta internet fixa como o pior serviço e celular pré-pago como o melhor",
+        "Notice": "https://g1.globo.com/economia/noticia/2022/03/28/internet-fixa-e-o-servico-pior-avaliado-pelo-consumidor-celular-pre-pago-o-melhor-diz-anatel.ghtml",
+        "Image": "https://s2.glbimg.com/8aKGqf8oLYVEfZipMemljvjzFf0=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2022/a/D/Cest4BQBAcjBPVBGBvUQ/aplicativos.jpg",
+        "Date": "Há 4 dias"
+    },
+    "Notícia 102": {
+        "Tittle": "O que WhatsApp, Telegram, TikTok, Facebook e YouTube prometem fazer contra fake news nas eleições",
+        "Notice": "https://g1.globo.com/politica/eleicoes/2022/noticia/2022/03/28/o-que-whatsapp-telegram-tiktok-facebook-e-youtube-prometem-fazer-contra-fake-news-nas-eleicoes.ghtml",
+        "Image": "https://s2.glbimg.com/1ZhZUjc3LpfWM76TL4qmF7PVNGs=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/77/55/10385577",
+        "Date": "Há 4 dias"
+    },
+    "Notícia 103": {
+        "Tittle": "Quadrilhas criam milhares de reféns de serviços pirata de banda larga no Brasil, dizem autoridades",
+        "Notice": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2022/03/28/quadrilhas-criam-milhares-de-refens-de-servicos-pirata-de-banda-larga-no-brasil-dizem-autoridades.ghtml",
+        "Image": "https://s2.glbimg.com/n01x173Bni4HJSyhXQXMja7r5Hk=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/92/70/9617092",
+        "Date": "Há 4 dias"
+    },
+    "Notícia 104": {
+        "Tittle": "Meta, dona do Facebook, abre vagas para estudantes e PhDs da América Latina trabalharem na Europa",
+        "Notice": "https://g1.globo.com/tecnologia/noticia/2022/03/28/meta-do-facebook-abre-vagas-para-estagiarios-e-phds-da-america-latina-trabalharem-na-europa.ghtml",
+        "Image": "https://s2.glbimg.com/C5TNzK0ndS_WXoPneuvUNKEixf0=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2021/j/z/kYncAOQXKBSZ4zXUc0wQ/063-1349793574.jpg",
+        "Date": "Há 4 dias"
+    },
+    "Notícia 105": {
+        "Tittle": "Elon Musk testa positivo para Covid-19 novamente",
+        "Notice": "https://g1.globo.com/tecnologia/noticia/2022/03/28/elon-musk-testa-positivo-para-covid-19-pela-segunda-vez.ghtml",
+        "Image": "https://s2.glbimg.com/VxslJNLyIPOk252oLgF5azU0OCU=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2021/4/M/PAfG50SrKf23eFBDAHMQ/elon-musk-foi-um-dos-ultimos-bilionarios-a-investir-em-criptomoeda.jpg",
+        "Date": "Há 4 dias"
+    },
+    "Notícia 106": {
+        "Tittle": "Powerbank: como escolher a melhor bateria portátil para o smartphone",
+        "Notice": "https://g1.globo.com/especiais/guia-de-compras/noticia/2022/03/28/powerbank-como-escolher-a-melhor-bateria-portatil-para-o-smartphone.ghtml",
+        "Image": "https://s2.glbimg.com/tFs01sGuXBElyu2_r6v-WAE-23w=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2022/m/A/PUHPU1SDKAfhsThvCN9w/guiadecompras-powerbank-selo-home.jpg",
+        "Date": "Há 4 dias"
+    },
+    "Notícia 107": {
+        "Tittle": "Guerra na Ucrânia: os três ciberataques russos que as potências ocidentais mais temem",
+        "Notice": "https://g1.globo.com/mundo/ucrania-russia/noticia/2022/03/27/guerra-na-ucrania-os-tres-ciberataques-russos-que-as-potencias-ocidentais-mais-temem.ghtml",
+        "Image": "https://s2.glbimg.com/aXdS9uASYe75PfLktMJWRWR5GKQ=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2022/z/D/4xMTlHSXA3OiGWgaWfiQ/image002.jpg",
+        "Date": "Há 5 dias"
+    },
+    "Notícia 108": {
+        "Tittle": "Spotify diz que vai suspender serviço na Rússia",
+        "Notice": "https://g1.globo.com/tecnologia/noticia/2022/03/25/spotify-diz-que-vai-suspender-servico-na-russia.ghtml",
+        "Image": "https://s2.glbimg.com/tWvUMzDNz01mtjSPx85Furv2TLM=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2021/D/C/ZQWYUATXitxAeeinSKgw/2021-11-11t210019z-717963676-rc2lsq9np5n1-rtrmadp-3-spotify-tech-audiobooks.jpg",
+        "Date": "Há 1 semana"
+    },
+    "Notícia 109": {
+        "Tittle": "Da internet discada aos memes: como foi criado o GIF, formato de imagens animadas",
+        "Notice": "https://g1.globo.com/tecnologia/noticia/2022/03/25/da-internet-discada-aos-memes-como-foi-criado-o-gif-formato-de-imagens-animadas.ghtml",
+        "Image": "https://s2.glbimg.com/_W8WDzI90nhafBFlk7wMBXGXLnI=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2022/n/5/esTklsRJAjneXkgA0WwQ/aviao.gif",
+        "Date": "Há 1 semana"
+    },
+    "Notícia 110": {
+        "Tittle": "EUA e União Europeia fecham acordo sobre marco de transferência de dados pessoais",
+        "Notice": "https://g1.globo.com/tecnologia/noticia/2022/03/25/eua-e-uniao-europeia-fecham-acordo-sobre-marco-de-transferencia-de-dados-pessoais.ghtml",
+        "Image": "https://s2.glbimg.com/XmrYWCSmn8AHqy02Vf5eJWbYZb4=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2022/K/F/9MnZM0RACbBB1RXarYqA/biden-van-der-leyen.jpg",
+        "Date": "Há 1 semana"
+    },
+    "Notícia 111": {
+        "Tittle": "Novas regras para restringir poder das gigantes da tecnologia começam a valer em outubro na União Europeia",
+        "Notice": "https://g1.globo.com/tecnologia/noticia/2022/03/25/novas-regras-para-restringir-poder-das-gigantes-da-tecnologia-comecam-a-valer-em-outubro-na-uniao-europeia.ghtml",
+        "Image": "https://s2.glbimg.com/rEVZ-IdN63ksPuC9Mduz9qtgF0w=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/w/H/CnLC4LQEGSCYUtvbvTfA/dsc05507.jpg",
+        "Date": "Há 1 semana"
+    },
+    "Notícia 112": {
+        "Tittle": "'Telefones burros': como os celulares sem conexão estão ressurgindo no mundo hiperconectado",
+        "Notice": "https://g1.globo.com/tecnologia/noticia/2022/03/25/telefones-burros-como-os-celulares-sem-conexao-estao-ressurgindo-no-mundo-hiperconectado.ghtml",
+        "Image": "https://s2.glbimg.com/MITOi1m0cICFrogBqCEzReKC65Q=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2022/s/L/CxxLurRPahMVogJYzhTg/celular-nokia.jpg",
+        "Date": "Há 1 semana"
+    },
+    "Notícia 113": {
+        "Tittle": "Tablet para crianças: g1 testa modelos para brincar, jogar e aprender",
+        "Notice": "https://g1.globo.com/especiais/guia-de-compras/noticia/2022/03/25/tablet-para-criancas-g1-testa-modelos-para-brincar-jogar-e-aprender.ghtml",
+        "Image": "https://s2.glbimg.com/tve8NKq2dYhz7_Gjki5STuTKQ4M=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2022/3/w/FAmOXCT6CZ6Qds6VNCxw/selo-tablets.jpg",
+        "Date": "Há 1 semana"
+    },
+    "Notícia 114": {
+        "Tittle": "Twitter ganhou editor de GIFs, comunidades e botão de 'dislike'; veja como usar os novos recursos",
+        "Notice": "https://g1.globo.com/tecnologia/noticia/2022/03/25/twitter-ganhou-editor-de-gifs-comunidades-e-botao-de-dislike-veja-como-usar-os-novos-recursos.ghtml",
+        "Image": "https://s2.glbimg.com/ymJ9n79PWjOtJX0bmSlXwjh-HSk=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2022/P/d/OVOs8XRIqZchmtYkuZVg/ap22069049449468.jpg",
+        "Date": "Há 1 semana"
+    },
+    "Notícia 115": {
+        "Tittle": "Título de eleitor pode ser feito 100% online: qual o prazo para tirar e como fazer?",
+        "Notice": "https://g1.globo.com/politica/eleicoes/2022/noticia/2022/03/25/titulo-de-eleitor-pode-ser-feito-100percent-online-qual-o-prazo-para-tirar-e-como-fazer.ghtml",
+        "Image": "https://s2.glbimg.com/YPlJ3d-H6UciD7sGLJWm4gjOMUU=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/12/08/10420812",
+        "Date": "Há 1 semana"
+    },
+    "Notícia 116": {
+        "Tittle": "Apple comprará primeiro grande lote de alumínio sem carbono para iPhone SE",
+        "Notice": "https://g1.globo.com/tecnologia/noticia/2022/03/24/apple-comprara-primeiro-grande-lote-de-aluminio-sem-carbono-para-iphone-se.ghtml",
+        "Image": "https://s2.glbimg.com/kat_blC2qS2WkSxbO2FpnT8g23Y=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2022/8/Q/hNqwWtSkKBMELdIT72xQ/iphone-se-2022.jpg",
+        "Date": "Há 1 semana"
+    },
+    "Notícia 117": {
+        "Tittle": "Como uso excessivo de celular impacta cérebro da criança",
+        "Notice": "https://g1.globo.com/saude/noticia/2022/03/24/como-uso-excessivo-de-celular-impacta-cerebro-da-crianca.ghtml",
+        "Image": "https://s2.glbimg.com/BrvYzJfzsJQm2Sp46aPgHiZixJQ=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2022/U/W/DSBlxaTHWhmKtHtxBK8Q/pexels-amina-filkins-5560078-1-.jpg",
+        "Date": "Há 1 semana"
+    },
+    "Notícia 118": {
+        "Tittle": "LinkedIn barra anúncio de vagas a negros e indígenas; MPF e Procon-SP pedem explicações",
+        "Notice": "https://g1.globo.com/tecnologia/noticia/2022/03/24/procon-sp-notifica-linkedin-por-barrar-anuncio-de-vagas-para-negros-e-indigenas.ghtml",
+        "Image": "https://s2.glbimg.com/S8AhWmm91opeCl00SA88Tc4jVgQ=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2017/B/g/wHu4q2QwydK5LIR2CDYg/2017-03-22t171601z-664437383-rc141c5202a0-rtrmadp-3-linkedin-socialmedia.jpg",
+        "Date": "Há 1 semana"
+    },
+    "Notícia 119": {
+        "Tittle": "Stephen Wilhite, criador do formato GIF, morre aos 74 anos",
+        "Notice": "https://g1.globo.com/tecnologia/noticia/2022/03/24/stephen-wilhite-criador-do-formato-gif-morre-aos-74-anos.ghtml",
+        "Image": "https://s2.glbimg.com/yejwtY1ulOgW7SLMV0GT-PF1_5Y=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2022/U/v/vWX3kUQcybW0e5rTuFYA/ap20072621125207.jpeg",
+        "Date": "Há 1 semana"
+    },
+    "Notícia 120": {
+        "Tittle": "Outlook para Android e iPhone tem recurso que lê e-mails em voz alta; veja como funciona",
+        "Notice": "https://g1.globo.com/tecnologia/noticia/2022/03/24/outlook-para-android-e-iphone-tem-recurso-que-le-emails-em-voz-alta-veja-como-funciona.ghtml",
+        "Image": "https://s2.glbimg.com/M8Bwxcf1NmkCXHGifHRQeCJU794=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2022/Z/7/TBuqHBTCqP9HUdSN5rXg/outlook-play-emails.jpg",
+        "Date": "Há 1 semana"
+    },
+    "Notícia 121": {
+        "Tittle": "Maioria da Segunda Turma do STF rejeita recurso de Jairinho contra prisão",
+        "Notice": "https://g1.globo.com/politica/noticia/2022/04/01/maioria-da-segunda-turma-do-stf-rejeita-recurso-de-jairinho-contra-prisao.ghtml",
+        "Image": "https://s2.glbimg.com/nJh4QffnTgmWgVmUZFmQLa_mfCI=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/47/05/9360547",
+        "Date": "Há 23 minutos"
+    },
+    "Notícia 122": {
+        "Tittle": "Em meio a guerra na Ucrânia, balança comercial brasileira tem superávit recorde para março",
+        "Notice": "https://g1.globo.com/economia/noticia/2022/04/01/em-meio-a-guerra-na-ucrania-balanca-comercial-brasileira-tem-superavit-recorde-para-marco.ghtml",
+        "Image": "https://s2.glbimg.com/9592X3rmNzQTOYtMWGkbw4ZTyJ4=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/25/89/10408925",
+        "Date": "Há 1 hora"
+    },
+    "Notícia 123": {
+        "Tittle": "Em ano eleitoral, governo anuncia programa de compra de caminhões com mais de 30 anos",
+        "Notice": "https://g1.globo.com/economia/noticia/2022/04/01/em-ano-eleitoral-governo-anuncia-programa-de-compra-de-caminhoes-com-mais-de-30-anos.ghtml",
+        "Image": "0",
+        "Date": "Há 1 hora"
+    },
+    "Notícia 124": {
+        "Tittle": "Título de eleitor: veja o passo a passo para trocar local de votação",
+        "Notice": "https://g1.globo.com/politica/video/titulo-de-eleitor-veja-o-passo-a-passo-para-trocar-local-de-votacao-10445152.ghtml",
+        "Image": "https://s2.glbimg.com/jU76DDZG0TNH_-kI2LLWexo633c=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/52/51/10445152",
+        "Date": "Há 2 horas"
+    },
+    "Notícia 125": {
+        "Tittle": "PSDB realiza evento para oficializar filiação de Rodrigo Maia ao partido",
+        "Notice": "https://g1.globo.com/sp/sao-paulo/eleicoes/2022/noticia/2022/04/01/psdb-realiza-evento-para-oficializar-filiacao-de-rodrigo-maia-ao-partido.ghtml",
+        "Image": "https://s2.glbimg.com/bU-Cubph3lpZcTybl_-3ITuZxzY=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2022/L/g/mAhTkMRta0vClNnfFXHQ/fta20220401002.jpg",
+        "Date": "Há 2 horas"
+    },
+    "Notícia 126": {
+        "Tittle": "Governo prorroga redução de 25% no IPI por um mês; Guedes havia falado em ampliar corte para 33%",
+        "Notice": "https://g1.globo.com/economia/noticia/2022/04/01/governo-prorroga-reducao-de-25percent-no-ipi-por-um-mes-guedes-havia-falado-em-ampliar-corte-para-33percent.ghtml",
+        "Image": "https://s2.glbimg.com/5gus07ZwhXdE8y7binIaw-lutsI=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/52/31/10423152",
+        "Date": "Há 3 horas"
+    },
+    "Notícia 127": {
+        "Tittle": "STF forma maioria a favor das medidas impostas por Moraes ao deputado Daniel Silveira",
+        "Notice": "https://g1.globo.com/politica/noticia/2022/04/01/stf-forma-maioria-a-favor-das-medidas-impostas-por-moraes-ao-deputado-daniel-silveira.ghtml",
+        "Image": "https://s2.glbimg.com/ZS4OaSV4_nR0yh_zon0opM8a2Iw=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/57/33/10443357",
+        "Date": "Há 3 horas"
+    },
+    "Notícia 128": {
+        "Tittle": "Rosângela Moro, esposa de Sergio Moro, deixa o Podemos dois dias após filiação e vai para o União Brasil",
+        "Notice": "https://g1.globo.com/sp/sao-paulo/eleicoes/2022/noticia/2022/04/01/rosangela-moro-esposa-de-sergio-moro-deixa-o-podemos-dois-dias-apos-filiacao-e-vai-para-o-uniao-brasil.ghtml",
+        "Image": "https://s2.glbimg.com/mt5Zg0LhGqvuyD2v4lqh6J4SYO4=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2022/O/e/F7OJ6oRpCOZaPxX7fE5A/rosangela-moro.jpg",
+        "Date": "Há 5 horas"
+    },
+    "Notícia 129": {
+        "Tittle": "Com saída de Moro e indefinição da 3ª via, Ciro busca se consolidar como protagonista do centro",
+        "Notice": "https://g1.globo.com/politica/blog/gerson-camarotti/post/2022/04/01/com-desistencia-de-moro-e-indefinicao-da-3a-via-ciro-busca-se-consolidar-como-principal-forca-do-centro.ghtml",
+        "Image": "https://s2.glbimg.com/6eSeYlf8HoQVnc5J534Ah37k6fs=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/87/40/10444087",
+        "Date": "Há 6 horas"
+    },
+    "Notícia 130": {
+        "Tittle": "Fachin diz que 'democracia está ameaçada', a Justiça eleitoral 'sob ataque', e que é preciso defendê-las",
+        "Notice": "https://g1.globo.com/economia/blog/ana-flor/post/2022/04/01/fachin-diz-que-democracia-esta-ameacada-a-justica-eleitoral-sob-ataque-e-que-e-preciso-defende-las.ghtml",
+        "Image": "https://s2.glbimg.com/FRAd3HQ29ftlLf18h1zYpfmNSiw=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2021/E/n/G8iJ9xRZObISC2kwBZAw/bancoimagemfotoaudiencia-ap-437702.jpg",
+        "Date": "Há 6 horas"
+    },
+    "Notícia 131": {
+        "Tittle": "Moro diz a aliados que não desistiu da Presidência e vai construir candidatura no União Brasil",
+        "Notice": "https://g1.globo.com/politica/blog/andreia-sadi/post/2022/04/01/moro-diz-a-aliados-que-nao-desistiu-da-presidencia-e-vai-construir-candidatura-no-uniao-brasil.ghtml",
+        "Image": "https://s2.glbimg.com/XBt2hij1vy_RGRnnghoBNnYXEEQ=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/66/21/10442166",
+        "Date": "Há 7 horas"
+    },
+    "Notícia 132": {
+        "Tittle": "TSE cobra mais agilidade das redes sociais para obter dados que auxiliem em inquérito sobre Bolsonaro",
+        "Notice": "https://g1.globo.com/politica/noticia/2022/04/01/tse-quer-mais-agilidade-das-redes-sociais-para-ter-acesso-a-dados-em-inquerito-sobre-bolsonaro.ghtml",
+        "Image": "0",
+        "Date": "Há 7 horas"
+    },
+    "Notícia 133": {
+        "Tittle": "Irritada com contra-ataque de Doria, cúpula do PSDB dá aval a Leite para fechar apoios a candidatura paralela",
+        "Notice": "https://g1.globo.com/politica/blog/andreia-sadi/post/2022/04/01/irritada-com-contra-ataque-de-doria-cupula-do-psdb-da-aval-a-leite-para-fechar-apoios-a-candidatura-paralela.ghtml",
+        "Image": "https://s2.glbimg.com/MsEo8leo4FBKgwoZLJXb8cJ86vg=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/45/33/10443345",
+        "Date": "Há 7 horas"
+    },
+    "Notícia 134": {
+        "Tittle": "Bolsonaro espera herdar parte relevante dos votos de Sergio Moro e consolidar polarização com Lula",
+        "Notice": "https://g1.globo.com/politica/blog/valdo-cruz/post/2022/04/01/bolsonaro-espera-herdar-boa-parte-dos-votos-de-sergio-moro-e-consolidar-polarizacao-com-lula.ghtml",
+        "Image": "https://s2.glbimg.com/MsEo8leo4FBKgwoZLJXb8cJ86vg=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/45/33/10443345",
+        "Date": "Há 8 horas"
+    },
+    "Notícia 135": {
+        "Tittle": "Secretário ignorou área técnica ao alterar classificação etária de 'Como se tornar o pior aluno da escola'",
+        "Notice": "https://g1.globo.com/politica/noticia/2022/04/01/secretario-ignorou-area-tecnica-ao-alterar-classificacao-etaria-de-como-se-tornar-o-pior-aluno-da-escola.ghtml",
+        "Image": "https://s2.glbimg.com/61ZLs4uek8cGwxugGfbfSK1GqxQ=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/86/14/10391486",
+        "Date": "Há 11 horas"
+    },
+    "Notícia 136": {
+        "Tittle": "O Assunto #677: 3ª via em transe - Moro fora e o teatro do PSDB",
+        "Notice": "https://g1.globo.com/podcast/o-assunto/noticia/2022/04/01/o-assunto-677-3a-via-em-transe-moro-fora-e-o-teatro-do-psdb.ghtml",
+        "Image": "https://s2.glbimg.com/HehvOqHu7wdYoVABiJeobxPhxoU=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2019/u/p/MCvi3PSlO2kC6DnaSVmg/podcasts-3000x1688-sem-logo-02.png",
+        "Date": "Há 15 horas"
+    },
+    "Notícia 137": {
+        "Tittle": "20% dos deputados já trocaram de partido na janela que termina nesta sexta; veja lista",
+        "Notice": "https://g1.globo.com/politica/noticia/2022/04/01/20percent-dos-deputados-ja-trocaram-de-partido-na-janela-que-termina-nesta-sexta-veja-lista.ghtml",
+        "Image": "https://s2.glbimg.com/FsxZWa34RdROLRX7U8n9uBqhQwY=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/75/82/10408275",
+        "Date": "Há 16 horas"
+    },
+    "Notícia 138": {
+        "Tittle": "Cármen Lúcia aponta violações à Constituição na política ambiental do governo Bolsonaro",
+        "Notice": "https://g1.globo.com/politica/noticia/2022/03/31/carmen-lucia-aponta-violacoes-a-constituicao-na-politica-ambiental-do-governo-bolsonaro.ghtml",
+        "Image": "https://s2.glbimg.com/KnnDNRPTGTtKgrH3LLk3vQPf4a0=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/17/85/10438517",
+        "Date": "Há 19 horas"
+    },
+    "Notícia 139": {
+        "Tittle": "Damares Alves diz que não concorrerá ao Senado pelo Amapá: 'Não sou candidata a nada, ainda'",
+        "Notice": "https://g1.globo.com/ap/amapa/eleicoes/2022/noticia/2022/03/31/damares-alves-diz-que-nao-concorrera-ao-senado-pelo-amapa-nao-sou-candidata-a-nada-ainda.ghtml",
+        "Image": "https://s2.glbimg.com/0zZV63dz90RsquGYLiWhoXeIn3I=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2022/v/a/68WCXeTGWl8XrZj7S7GA/whatsapp-image-2022-03-31-at-20.27.19.jpeg",
+        "Date": "Há 19 horas"
+    },
+    "Notícia 140": {
+        "Tittle": "À PF, Milton Ribeiro confirma que Bolsonaro pediu a ele para receber pastor, mas nega favorecimento",
+        "Notice": "https://g1.globo.com/politica/noticia/2022/03/31/a-pf-milton-ribeiro-confirma-que-bolsonaro-pediu-a-ele-para-receber-pastores-mas-nega-favorecimento.ghtml",
+        "Image": "https://s2.glbimg.com/oazFzaMD-UI-u6wLlN_J5BVdbAA=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/39/30/10443039",
+        "Date": "Há 19 horas"
+    },
+    "Notícia 141": {
+        "Tittle": "Deputado muda de partido duas vezes durante a janela partidária; especialista vê 'leilão eleitoral'",
+        "Notice": "https://g1.globo.com/politica/eleicoes/2022/noticia/2022/03/31/deputado-muda-de-partido-duas-vezes-durante-a-janela-partidaria-especialista-ve-leilao-eleitoral.ghtml",
+        "Image": "https://s2.glbimg.com/kZRbg_5shdi-Ur96VSt7xoyUBb0=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2022/1/T/lAHsNnQwy7YyIeybxAKg/charlles-evangelista.jpg",
+        "Date": "Há 19 horas"
+    },
+    "Notícia 142": {
+        "Tittle": "Presidente do Podemos diz que partido foi pego de surpresa por saída de Moro e que soube de mudança pela imprensa",
+        "Notice": "https://g1.globo.com/sp/sao-paulo/eleicoes/2022/noticia/2022/03/31/presidente-do-podemos-diz-que-partido-foi-pego-de-surpresa-por-saida-de-moro-e-que-soube-de-mudanca-pela-imprensa.ghtml",
+        "Image": "https://s2.glbimg.com/XBt2hij1vy_RGRnnghoBNnYXEEQ=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/66/21/10442166",
+        "Date": "Há 20 horas"
+    },
+    "Notícia 143": {
+        "Tittle": "Doria diz que 'não houve desistência' de candidatura, mas plano para obter 'apoio explícito' do PSDB",
+        "Notice": "https://g1.globo.com/sp/sao-paulo/eleicoes/2022/noticia/2022/03/31/doria-diz-que-nao-houve-desistencia-de-candidatura-mas-plano-para-obter-apoio-explicito-do-psdb.ghtml",
+        "Image": "https://s2.glbimg.com/f8Iw1zgvNvkzNpF7h-pQa9r7W98=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/09/23/10442309",
+        "Date": "Há 21 horas"
+    },
+    "Notícia 144": {
+        "Tittle": "Para cúpula tucana, 'blefe' de Doria esvazia candidatura e ajuda a impulsionar articulação por Leite",
+        "Notice": "https://g1.globo.com/politica/blog/gerson-camarotti/post/2022/03/31/para-cupula-tucana-blefe-de-doria-esvazia-candidatura-e-ajuda-a-impulsionar-articulacao-por-leite.ghtml",
+        "Image": "https://s2.glbimg.com/f8Iw1zgvNvkzNpF7h-pQa9r7W98=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/09/23/10442309",
+        "Date": "Há 22 horas"
+    },
+    "Notícia 145": {
+        "Tittle": "Novo ministro do Trabalho diz que governo estuda MP para dar gratificação e reduzir fila do INSS",
+        "Notice": "https://g1.globo.com/economia/noticia/2022/03/31/novo-ministro-do-trabalho-diz-que-governo-estuda-mp-para-dar-gratificacao-e-reduzir-fila-do-inss.ghtml",
+        "Image": "https://s2.glbimg.com/pxfUFq1Gzrnd7NWD1ID5soycP_g=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/76/73/10437376",
+        "Date": "Há 23 horas"
+    },
+    "Notícia 146": {
+        "Tittle": "Daniel Silveira exibe tornozeleira eletrônica ao deixar prédio da PF em Brasília",
+        "Notice": "https://g1.globo.com/politica/video/daniel-silveira-exibe-tornozeleira-eletronica-ao-deixar-predio-da-pf-em-brasilia-10442247.ghtml",
+        "Image": "https://s2.glbimg.com/R2w5GGghpEh3a1HwFqNpBp3v8II=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/47/22/10442247",
+        "Date": "Há 23 horas"
+    },
+    "Notícia 147": {
+        "Tittle": "Moro vai ser candidato a deputado federal por São Paulo, diz secretário-executivo do União Brasil",
+        "Notice": "https://g1.globo.com/sp/sao-paulo/noticia/2022/03/31/moro-vai-ser-candidato-a-deputado-federal-por-sao-paulo-diz-secretario-executivo-do-uniao-brasil.ghtml",
+        "Image": "https://s2.glbimg.com/XBt2hij1vy_RGRnnghoBNnYXEEQ=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/66/21/10442166",
+        "Date": "Há 23 horas"
+    },
+    "Notícia 148": {
+        "Tittle": "Ministros fazem cerimônias em Brasília para transferir cargos a subordinados",
+        "Notice": "https://g1.globo.com/politica/eleicoes/2022/noticia/2022/03/31/ministros-fazem-cerimonias-em-brasilia-para-transferir-cargos-a-subordinados.ghtml",
+        "Image": "https://s2.glbimg.com/YxR08uNya-jPZ_ekl836TO3SIQ0=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/87/17/10441787",
+        "Date": "Há 24 horas"
+    },
+    "Notícia 149": {
+        "Tittle": "Doria oficializa saída do governo de SP e diz que mantém pré-candidatura à Presidência",
+        "Notice": "https://g1.globo.com/sp/sao-paulo/eleicoes/2022/noticia/2022/03/31/doria-participa-de-evento-no-palacio-dos-bandeirantes-nesta-quinta.ghtml",
+        "Image": "https://s2.glbimg.com/ivVIW3E-mWO8ruFj8XnnzAe5Izs=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/97/85/10428597",
+        "Date": "Há 24 horas"
+    },
+    "Notícia 150": {
+        "Tittle": "Membros da cúpula do União Brasil dizem não aceitar Moro 'neste momento' como pré-candidato a presidente",
+        "Notice": "https://g1.globo.com/politica/eleicoes/2022/noticia/2022/03/31/membros-da-cupula-do-uniao-brasil-dizem-nao-aceitar-moro-como-pre-candidato-a-presidente-neste-momento.ghtml",
+        "Image": "https://s2.glbimg.com/XBt2hij1vy_RGRnnghoBNnYXEEQ=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/66/21/10442166",
+        "Date": "Ontem"
+    },
+    "Notícia 151": {
+        "Tittle": "Após descumprir ordem, deputado Daniel Silveira recebe tornozeleira eletrônica e volta a ser monitorado",
+        "Notice": "https://g1.globo.com/politica/noticia/2022/03/31/apos-descumprir-ordem-deputado-daniel-silveira-comparece-a-pf-para-instalar-tornozeleira-eletronica.ghtml",
+        "Image": "https://s2.glbimg.com/R2w5GGghpEh3a1HwFqNpBp3v8II=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/47/22/10442247",
+        "Date": "Ontem"
+    },
+    "Notícia 152": {
+        "Tittle": "Doria recua e diz que vai deixar o governo e manter pré-candidatura à Presidência da República",
+        "Notice": "https://g1.globo.com/politica/blog/andreia-sadi/post/2022/03/31/doria-recua-e-diz-que-vai-manter-pre-candidatura-a-presidencia-da-republica.ghtml",
+        "Image": "https://s2.glbimg.com/iU0KVWy6M6G9gvkbjDnndzeUoqM=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/97/20/10442097",
+        "Date": "Ontem"
+    },
+    "Notícia 153": {
+        "Tittle": "Moro assina filiação ao União Brasil e abre mão, 'neste momento', da pré-candidatura à Presidência da República",
+        "Notice": "https://g1.globo.com/sp/sao-paulo/noticia/2022/03/31/sergio-moro-assina-filiacao-ao-uniao-brasil-em-evento-em-sp.ghtml",
+        "Image": "https://s2.glbimg.com/XBt2hij1vy_RGRnnghoBNnYXEEQ=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/66/21/10442166",
+        "Date": "Ontem"
+    },
+    "Notícia 154": {
+        "Tittle": "Bloqueio de R$ 1,7 bi será feito nas emendas conhecidas como 'orçamento secreto', diz governo",
+        "Notice": "https://g1.globo.com/politica/noticia/2022/03/31/bloqueio-de-r-17-bi-para-cumprir-teto-de-gastos-sera-feito-nas-chamadas-emendas-de-relator-diz-governo.ghtml",
+        "Image": "https://s2.glbimg.com/_nme7KgPAWlN1lLxxJxmh4HppvE=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/16/47/10414716",
+        "Date": "Ontem"
+    },
+    "Notícia 155": {
+        "Tittle": "Relator de projeto das 'fake news' quer que provedor e aplicativo mantenham representação de pessoa jurídica no Brasil",
+        "Notice": "https://g1.globo.com/politica/noticia/2022/03/31/relator-de-projeto-das-fake-news-quer-exigir-de-provedor-e-aplicativo-abertura-de-empresa-no-brasil.ghtml",
+        "Image": "https://s2.glbimg.com/lqVII3tGEby4lJbfk_WbkFnr7lM=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/09/31/10443109",
+        "Date": "Ontem"
+    },
+    "Notícia 156": {
+        "Tittle": "Bolsonaro nomeia general Freire Gomes para comandar o Exército",
+        "Notice": "https://g1.globo.com/politica/noticia/2022/03/31/bolsonaro-escolhe-general-freire-gomes-para-comandar-o-exercito.ghtml",
+        "Image": "https://s2.glbimg.com/DIc_It5AnWfKPQjBHw4KEJpZtAA=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2022/S/P/7dgxF9QQKOCYTYEaR9AQ/freire-gomes.png",
+        "Date": "Ontem"
+    },
+    "Notícia 157": {
+        "Tittle": "Cotado para candidato a vice na chapa de Bolsonaro, Braga Netto é exonerado do Ministério da Defesa",
+        "Notice": "https://g1.globo.com/politica/noticia/2022/03/31/cotado-para-ser-candidato-a-vice-de-bolsonaro-braga-netto-e-exonerado-do-ministerio-da-defesa.ghtml",
+        "Image": "https://s2.glbimg.com/a1vBr2v9qFqvItgWmjL1kxhg0Wo=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/84/90/10409084",
+        "Date": "Ontem"
+    },
+    "Notícia 158": {
+        "Tittle": "Em discurso, Bolsonaro defende ditadores militares e deputado dos atos antidemocráticos",
+        "Notice": "https://g1.globo.com/politica/noticia/2022/03/31/em-discurso-no-planalto-bolsonaro-defende-ditadores-militares-e-deputado-reu-por-atos-antidemocraticos.ghtml",
+        "Image": "https://s2.glbimg.com/YxR08uNya-jPZ_ekl836TO3SIQ0=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/87/17/10441787",
+        "Date": "Ontem"
+    },
+    "Notícia 159": {
+        "Tittle": "Senadores do Podemos falam em 'traição' de Moro",
+        "Notice": "https://g1.globo.com/economia/blog/ana-flor/post/2022/03/31/senadores-do-podemos-falam-em-traicao-de-moro.ghtml",
+        "Image": "https://s2.glbimg.com/ZGSsLkJ_dPv_6cM89CF5Jm3Vbvo=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2021/6/M/BImZ5bSDmvMvXHTE7pug/2021-03-23t182827z-1-lynxmpeh2m1fc-rtroptp-4-brazil-politics.jpg",
+        "Date": "Ontem"
+    },
+    "Notícia 160": {
+        "Tittle": "MDB aposta no fortalecimento de Tebet se Doria e Moro deixarem disputa presidencial",
+        "Notice": "https://g1.globo.com/politica/blog/valdo-cruz/post/2022/03/31/mdb-aposta-no-fortalecimento-de-tebet-se-doria-e-moro-deixarem-disputa-presidencial.ghtml",
+        "Image": "https://s2.glbimg.com/A_yeue0IHpyI7GXIxCFSJ8AjTRs=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/11/08/10440811",
+        "Date": "Ontem"
     }
 }

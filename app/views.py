@@ -27,7 +27,7 @@ def retorna_preferencias(informacao):
 def scraper(tag, classe, tag_img, classe_img, tag_tittle, classe_tittle, tag_link, classe_link, tag_data, classe_data):
     preferencia = retorna_preferencias('Escolhas')
     indice = 0
-    ultima_pagina = 2
+    ultima_pagina = 5
     num = 0
     dicionario = {}
     while indice < len(preferencia):
